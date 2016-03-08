@@ -1,0 +1,8 @@
+{
+  "name": "redux-storage",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/michaelcontento/redux-storage",
+  "dependencies": {
+    "redux": "github:andrew-w-ross/typings-redux"
+  }
+}
